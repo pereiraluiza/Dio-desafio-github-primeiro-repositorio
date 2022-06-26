@@ -33,5 +33,7 @@ A sigla significa secure hash algorithm (algoritmo de hash seguro), o SHA-1 é u
 ### Objetos interno do Git
 
 Objetos tree: é um conjunto de valores de índices apontando para os objetos.
+
 Objeto commit: aponta para a tree
+
 Obejto blob: objeto usado para armazenar o conteúdo de cada arquivo em um repositório.
